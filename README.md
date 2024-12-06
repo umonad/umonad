@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate software developer currently stud
 - **[Minishell](https://github.com/vantab3259/minishell)**  
   A Unix shell recreation in C, implementing process management, pipes, redirections, and signal handling.
 
-- **[IRC](https://github.com/vantab3259/irc)**  
+- **[IRC](https://github.com/vantab3259/IRC)**  
   An IRC-like server written in C++, showcasing skills in socket programming, concurrency, and message protocol compliance.
 
 ## 💻 Technical Skills
