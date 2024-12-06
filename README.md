@@ -27,6 +27,6 @@ At **42 Paris**, I am immersed in a peer-to-peer learning environment, constantl
 
 ## 📫 Let's Connect
 - **Email:** [monaudoh5@gmail.com](mailto:mona.udoh@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/mona-udoh-49273433b/](https://www.linkedin.com/in/mona-udoh-49273433b/)) 
+- **LinkedIn:** [linkedin.com/in/mona-udoh-49273433b/](https://www.linkedin.com/in/mona-udoh)) 
 
 Thank you for visiting my profile! 😊
