@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a passionate software developer currently studying at **42 Paris**, where I am honing my skills in algorithms, software design, and system development. I'm actively seeking an internship to gain hands-on experience and contribute to innovative tech projects.
 
 ## 🛠️ Featured Projects
-- **[ft_transcendance](https://github.com/vantab3259/ft_transcendance)**  
+- **[ft_transcendance](https://github.com/vantab3259/ft_trancsendance)**  
   A single-page application (SPA) Pong game developed using Django and java-script, featuring real-time interactions powered by WebSocket.
   
 - **[Minishell](https://github.com/vantab3259/minishell)**  
